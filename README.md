@@ -9,7 +9,7 @@
 
 ###Tutoriales
 
--[Conceptos Basicos de JS](https://www.youtube.com/watch?v=ygA5U7Wgsg8&list=PLfWyZ8S-XzecAttp3QU-gBBXvMqEZTQXB)
+- [Conceptos Basicos de JS](https://www.youtube.com/watch?v=ygA5U7Wgsg8&list=PLfWyZ8S-XzecAttp3QU-gBBXvMqEZTQXB)
 
 
 ##React 
